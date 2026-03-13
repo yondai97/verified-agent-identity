@@ -40,3 +40,4 @@ jobs:
         run: |
           node scripts/manualLinkHumanToAgent.js --challenge '{"name": "finder", "description": "finder AI Agent"}'
           
+          
